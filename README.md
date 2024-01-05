@@ -12,5 +12,5 @@
    
 Пример использования:
 ```
-./main -d <example.com> -p 8080 --ip4
+./main -d "example.com" -p 8080 --ip4
 ```
